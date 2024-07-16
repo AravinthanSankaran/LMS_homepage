@@ -10,8 +10,8 @@ function Hero() {
               Build your skills not your resume
             </p>
             <p className="lg:text-3xl font-bold">
-              "Anyone who has never made a mistake<br></br> has never tried
-              anything new"
+              &quot;Anyone who has never made a mistake<br></br> has never tried
+              anything new&quot;
             </p>
             <p className="font-semibold lg:text-2xl">- Albert Einstein</p>
           </div>
