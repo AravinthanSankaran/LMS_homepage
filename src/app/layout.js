@@ -4,7 +4,7 @@ import HeaderTop from "./components/Headertop";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
 import CallButton from "./components/Callus";
-import Chatbot from "./components/chatbot";
+import Chatbot from "./components/Chatbot";
 
 const inter = Inter({ subsets: ["latin"] });
 
